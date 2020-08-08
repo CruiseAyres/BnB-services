@@ -1,1 +1,1 @@
-console.log(`your gay`)
+console.log(`I accept u for who u r`)
