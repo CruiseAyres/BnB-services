@@ -65,3 +65,12 @@ button:hover {
     margin-top: 5%;
     color: white;
 }
+
+#fadeIn2 {
+  opacity: 0;
+  transition: 5s opacity;
+  text-align: center;
+  font-size:50px;
+  margin-top: 5%;
+  color: white;
+}
